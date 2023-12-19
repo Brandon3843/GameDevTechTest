@@ -1,0 +1,14 @@
+C:\Game Dev\Projects\GameDevTechTest\bin\Debug\net8.0\GameDevTechTest.exe
+C:\Game Dev\Projects\GameDevTechTest\bin\Debug\net8.0\GameDevTechTest.deps.json
+C:\Game Dev\Projects\GameDevTechTest\bin\Debug\net8.0\GameDevTechTest.runtimeconfig.json
+C:\Game Dev\Projects\GameDevTechTest\bin\Debug\net8.0\GameDevTechTest.dll
+C:\Game Dev\Projects\GameDevTechTest\bin\Debug\net8.0\GameDevTechTest.pdb
+C:\Game Dev\Projects\GameDevTechTest\obj\Debug\net8.0\GameDevTechTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Game Dev\Projects\GameDevTechTest\obj\Debug\net8.0\GameDevTechTest.AssemblyInfoInputs.cache
+C:\Game Dev\Projects\GameDevTechTest\obj\Debug\net8.0\GameDevTechTest.AssemblyInfo.cs
+C:\Game Dev\Projects\GameDevTechTest\obj\Debug\net8.0\GameDevTechTest.csproj.CoreCompileInputs.cache
+C:\Game Dev\Projects\GameDevTechTest\obj\Debug\net8.0\GameDevTechTest.dll
+C:\Game Dev\Projects\GameDevTechTest\obj\Debug\net8.0\refint\GameDevTechTest.dll
+C:\Game Dev\Projects\GameDevTechTest\obj\Debug\net8.0\GameDevTechTest.pdb
+C:\Game Dev\Projects\GameDevTechTest\obj\Debug\net8.0\GameDevTechTest.genruntimeconfig.cache
+C:\Game Dev\Projects\GameDevTechTest\obj\Debug\net8.0\ref\GameDevTechTest.dll
