@@ -6,13 +6,22 @@
 /// 
 public class Point
 {
+	public Point(int x, int y, int num, Direction dir)
+	{
+		this.x = x;
+		this.y = y;
+		this.num = num;
+		this.dir = dir;
+	}
+
 	public enum Direction
 	{
 		North, East, South, West
 	}
 
-	public Direction dir;
+	
 	public int x;
 	public int y;
-	public int Number;
+	public int num;
+    public Direction dir;
 }

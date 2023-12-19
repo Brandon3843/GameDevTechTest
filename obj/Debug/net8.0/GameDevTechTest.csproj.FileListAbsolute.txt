@@ -12,3 +12,4 @@ C:\Game Dev\Projects\GameDevTechTest\obj\Debug\net8.0\refint\GameDevTechTest.dll
 C:\Game Dev\Projects\GameDevTechTest\obj\Debug\net8.0\GameDevTechTest.pdb
 C:\Game Dev\Projects\GameDevTechTest\obj\Debug\net8.0\GameDevTechTest.genruntimeconfig.cache
 C:\Game Dev\Projects\GameDevTechTest\obj\Debug\net8.0\ref\GameDevTechTest.dll
+C:\Game Dev\Projects\GameDevTechTest\obj\Debug\net8.0\GameDevTechTest.sourcelink.json
