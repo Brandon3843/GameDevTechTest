@@ -1,35 +1,20 @@
 ﻿using System.Collections.Generic;
+using System.Numerics;
 using System.Xml;
 
 
-//Console.WriteLine("Please input X location:");
-//float x = float.Parse(Console.ReadLine());
+// X, Y, angle, spread, dist
+Point[] output = PointAnalyser.VisiblePoints(new Vector2(30, 30), 15, 35, 25);
 
 
-//Console.WriteLine("Please input Y location:");
-//float y = float.Parse(Console.ReadLine());
+Console.WriteLine("Points in cone are:");
 
 
-//Console.WriteLine("Please input cone angle:");
-//float angle = float.Parse(Console.ReadLine());
-
-
-//Console.WriteLine("Please input cone length:");
-//float dist = float.Parse(Console.ReadLine());
-
-
-
-
-Point[] output = PointAnalyser.GetData();
-
+// printing results
 foreach (Point p in output)
 {
     if (p is null) continue;
 
-    Console.WriteLine("(" + p.x + "," + p.y + "," + p.num + "," + p.dir + ")");
+    Console.WriteLine("(" + p.loc.X + "," + p.loc.Y + "," + p.num + "," + p.dir + ")");
 }
 
-
-
-//Point p = new(1, 1, 1, Point.Direction.North);
-//Console.WriteLine("(" + p.x + "," + p.y + "," + p.num + "," + p.dir + ")");

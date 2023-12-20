@@ -1,15 +1,16 @@
 ﻿using System;
+using System.Numerics;
 
 /// <summary>
-/// Point class
+/// Point class defining points
 /// </summary>
 /// 
 public class Point
 {
 	public Point(int x, int y, int num, Direction dir)
 	{
-		this.x = x;
-		this.y = y;
+		this.loc.X = x;
+		this.loc.Y = y;
 		this.num = num;
 		this.dir = dir;
 	}
@@ -19,9 +20,7 @@ public class Point
 		North, East, South, West
 	}
 
-	
-	public int x;
-	public int y;
+	public Vector2 loc;
 	public int num;
     public Direction dir;
 }
